@@ -35,3 +35,5 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/learning-npm-a-package-manager?dApp=59033956
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/C560DAQF6xNNOUO2ZwQ/learning-public-crop_288_512/0/1678465785599?e=2147483647&v=beta&t=INjO7_K3vfBFPnr7LP3QDkABNI2O9yUJvAuOaYP2xoY
+
+Jenny
